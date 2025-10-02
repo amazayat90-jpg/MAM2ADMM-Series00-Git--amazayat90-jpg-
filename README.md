@@ -12,3 +12,12 @@ These tools will help me manage and analyze data efficiently.
 I enjoy solving problems and automating tasks using programming.  
 Learning Git will allow me to collaborate with others on projects easily.  
 I am excited to improve my skills and apply them in future research and projects.
+
+## Summary of Learning
+
+In this assignment, I learned the basics of Git and GitHub, including creating repositories, branches, commits, and pushing changes.  
+I practiced editing a README.md file using Markdown.  
+I learned how to include both online images and local images in a repository.  
+I used GitHub Desktop and VS Code to manage my workflow.  
+This assignment took me approximately 2 hours to complete and helped me understand version control for my projects.
+
